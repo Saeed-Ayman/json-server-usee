@@ -1,9 +1,430 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "img": "https://i.pravatar.cc/?img=12",
+      "name": "Saeed Ayman",
+      "username": "@saeed-ayman500",
+      "email": "saeed-ayman500@gmail.com",
+      "password": "123",
+      "token": "$2y$10$LRe7d2tYHf8/cm3HfIsEPuhN1wjrIDZthA6LMJjIF5wNtEjLW1SlC"
+    },
+    {
+      "id": 2,
+      "img": "https://i.pravatar.cc/?img=13",
+      "name": "Mohammed Atef",
+      "username": "@mohammed-atef",
+      "email": "mohammed-atef@gmail.com",
+      "password": "password",
+      "token": "$2y$10$i8AimmY3OXV1MV10kuqFSeEiNZzCrw1rjbq2UpRAIbwbvlEDddFaK"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pravatar.cc/?img=14",
+      "name": "AbdElrahman Mohammed",
+      "username": "@abd-elrahman-mohamed",
+      "email": "abd-elrahman-mohamed@gmail.com",
+      "password": "password",
+      "token": "$2y$10$u37K2794./TM.jTxkKEnGO5NBl4CaNZfXZf4Bx6yNr3RMP7aRENX6"
+    },
+    {
+      "name": "Charles White",
+      "email": "dyvymysu@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=99",
+      "username": "@dyvymysu",
+      "token": "8sd51mrv7cr4jl1ahpjogw32c2otuipl5chizdedx52wtrbxtjmibf",
+      "id": 4
+    },
+    {
+      "name": "Kyla Figueroa",
+      "email": "cikoba@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=47",
+      "username": "@cikoba",
+      "token": "3dvsgt5cjjgxach614u4k7235d169ifqzdxudsxuhufoyorxjq6hz",
+      "id": 5
+    },
+    {
+      "name": "Lev Blanchard",
+      "email": "regimos@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=2",
+      "username": "@regimos",
+      "token": "eeudyzs388hfm4zi74trfp33y3nspp49ew63qyg9rvkhqkw0kotc69",
+      "id": 6
+    },
+    {
+      "name": "Kiara Jefferson",
+      "email": "nope@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=85",
+      "username": "@nope",
+      "token": "sbzdwmruv72kaahxjiz35aqq57g0kmsns7vp9c8zdln7fkk1xmwg4b",
+      "id": 7
+    },
+    {
+      "name": "Lunea Marks",
+      "email": "rifuqabaz@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=77",
+      "username": "@rifuqabaz",
+      "token": "kt0qmaw247drthxtxw7dx4epw9fivx8cu25u1ei7n1rrzcih7tjwjg",
+      "id": 8
+    },
+    {
+      "name": "Julian Randall",
+      "email": "bimy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=35",
+      "username": "@bimy",
+      "token": "zcaiog68fxlsvmxjutewyfmxpnvu83x3l4fkmxwd5eyr105s04isb5g",
+      "id": 9
+    },
+    {
+      "name": "Dacey Anderson",
+      "email": "mebalowes@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=51",
+      "username": "@mebalowes",
+      "token": "e0n63kvt3dfw9mmsd7tzbfs08rfgnb3vip1cln3n5r2mr7lfhothh8",
+      "id": 10
+    },
+    {
+      "name": "Saeed ayman",
+      "email": "saeed20359@gmail.com",
+      "password": "1",
+      "img": "https://i.pravatar.cc/?img=66",
+      "username": "@saeed20359",
+      "token": "z00rpxuhztq8wb619ahis2g83xbyf88fb67vmyj8vuxrzxm3caab",
+      "id": 11
+    },
+    {
+      "name": "وت",
+      "email": "ww.gdf@gmail.n",
+      "password": "ةةة",
+      "img": "https://i.pravatar.cc/?img=31",
+      "username": "@ww.gdf",
+      "token": "tr436k6yx9loxf0max1jkt2xy2wlu91ma32jjyrxmr9q9jjkf7fvn",
+      "id": 12
+    },
+    {
+      "name": "Abdelrahman",
+      "email": "Abdo5@gmail.com",
+      "password": "1234abc#",
+      "img": "https://i.pravatar.cc/?img=25",
+      "username": "@Abdo5",
+      "token": "ljzq8ooycti0nyadvb3djugoacmi28sgbc3pooyjcxy1w0e08ycpl7",
+      "id": 13
+    },
+    {
+      "name": "Barrett Miller",
+      "email": "cyzinygy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=49",
+      "username": "@cyzinygy",
+      "token": "0uwoym7oxpje1q18ydh8gkjefoi9qustcjl04769vcyks1z6040dds",
+      "id": 14
+    },
+    {
+      "name": "Hannah Moody",
+      "email": "votipufery@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=25",
+      "username": "@votipufery",
+      "token": "ig7rph2tprq2667trjzaj5isbr0h48gacmnairq3cs6zsteo51ikqi",
+      "id": 15
+    },
+    {
+      "name": "Travis Skinner",
+      "email": "potet@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=73",
+      "username": "@potet",
+      "token": "9cgv75quq805jkwhcav4wqtudssghv1fcx2uzxgoap937xhg5tsneh",
+      "id": 16
+    },
+    {
+      "name": "Martina Moran",
+      "email": "delehoti@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=31",
+      "username": "@delehoti",
+      "token": "fey23gu6pt8foxr90yc16bmz5n7d9h17ioq253p30qbh1pi60bhp7b",
+      "id": 17
+    },
+    {
+      "name": "Tatiana Cote",
+      "email": "zujyq@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=12",
+      "username": "@zujyq",
+      "token": "er1sydxywojhy7qspmts4fxgd44f8k0itd5lg48fydgipspqk1snik",
+      "id": 18
+    },
+    {
+      "name": "Angelica Hensley",
+      "email": "sojynyd@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=42",
+      "username": "@sojynyd",
+      "token": "4htt103f0su70tz0whc8ccw3m45hch9njth340udkl1glj3a2x95tt",
+      "id": 19
+    },
+    {
+      "name": "Saaed",
+      "email": "ana42145577@gmail.com",
+      "password": "12",
+      "img": "https://i.pravatar.cc/?img=60",
+      "username": "@ana42145577",
+      "token": "h64pcs7t7rgfp3iq8tu9yw9y8o46510bhurl6dt0uo67zb6aqwoksp",
+      "id": 20
+    },
+    {
+      "name": "Benjamin Whitehead",
+      "email": "sacojusuc@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=71",
+      "username": "@sacojusuc",
+      "token": "4rnwicf04xpfo9lsprfdl8mwllxcki4vpkz13u6qcpivjrcrk9nhef",
+      "id": 21
+    },
+    {
+      "name": "Denton Forbes",
+      "email": "myse@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=18",
+      "username": "@myse",
+      "token": "tsusn9yn1xdq7i6lr7zfsc9havivosjggeerlf4lr6gevmq1nq9jtb",
+      "id": 22
+    },
+    {
+      "name": "m.r.badawy",
+      "email": "tifa.reda4444@gmail.com",
+      "password": "1",
+      "img": "https://i.pravatar.cc/?img=9",
+      "username": "@tifa.reda4444",
+      "token": "g0okfeg74tk7hsdno4qhnkwtghz89gq0l3nvapz5dmjc4ht6wsbow",
+      "id": 23
+    },
+    {
+      "name": "Ruby Gutierrez",
+      "email": "xycah@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=90",
+      "username": "@xycah",
+      "token": "krpxk48rddn18ghgzwqo6u45ydoyz2ambq1foto8hdykp3oie3d6h",
+      "id": 24
+    },
+    {
+      "name": "ف",
+      "email": "moh@gmail.com",
+      "password": "٤٤",
+      "img": "https://i.pravatar.cc/?img=56",
+      "username": "@moh",
+      "token": "zeeb9juld48x3qz44310alsqm9pbzef5lnhb6iklpfrkjdj0z3iwhs8",
+      "id": 25
+    },
+    {
+      "name": "`",
+      "email": "test@gmail.com",
+      "password": "j",
+      "img": "https://i.pravatar.cc/?img=32",
+      "username": "@test",
+      "token": "kcr1gnx0gg74v4usy9otdxwsnjc0iycaei7qfez885sc9g939vml",
+      "id": 26
+    },
+    {
+      "name": "Saeed ayman",
+      "email": "saeed-ayman500@gmail.com",
+      "password": "Pa$$w0rd!",
+      "img": "https://i.pravatar.cc/?img=12",
+      "username": "@saeed-ayman500",
+      "token": "4kn3twhgmyhgxiset8gnhd81ecp5heyw6fs7blikdbq62m1l3rqxr",
+      "id": 27
+    },
+    {
+      "name": "mohammed affan",
+      "email": "mohammedaffan5005@gmail.com",
+      "password": "1",
+      "img": "https://i.pravatar.cc/?img=88",
+      "username": "@mohammedaffan5005",
+      "token": "ehyqdznucg5efp61agh4ldx4mz3ggylajftwkfxz0hktqdeqen0kpr",
+      "id": 28
+    },
+    {
+      "name": "mohammed affan",
+      "email": "mohammedaffan4004@gmail.com",
+      "password": "1",
+      "img": "https://i.pravatar.cc/?img=35",
+      "username": "@mohammedaffan4004",
+      "token": "fc6pukfmg4gdr8xl3dol0o3gu83idcneh3shmdzaywc2bmeuo2qf0bf",
+      "id": 29
+    },
+    {
+      "name": "SaeedAyman",
+      "email": "saeed-ayman@gmail.com",
+      "password": "1",
+      "img": "https://i.pravatar.cc/?img=60",
+      "username": "@saeed-ayman",
+      "token": "be0kayry3gsb5kvay2000womnne0ukfok4tnne2rb1gh0zyz370tp5m",
+      "id": 30
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "All Categories",
+      "slug": "all"
+    },
+    {
+      "id": 2,
+      "name": "Mathematics",
+      "slug": "mathematics"
+    },
+    {
+      "id": 3,
+      "name": "Algebra and logic gates",
+      "slug": "algebra-and-logic-gates"
+    },
+    {
+      "id": 4,
+      "name": "Algorithms",
+      "slug": "algorithms"
+    }
+  ],
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "id": 1,
+      "slug": "title-post-1",
+      "img": "https://picsum.photos/id/1/900/900",
+      "categoryId": 2,
+      "title": "Title Post 1",
+      "body": "Description Post 1",
+      "created_at": 1698385727661,
+      "excerpt": "<p>Excerpt post 1</p>",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "slug": "title-post-2",
+      "img": "https://picsum.photos/id/2/900/900",
+      "categoryId": 3,
+      "title": "Title Post 2",
+      "body": "Description Post 2",
+      "created_at": 1698385327661,
+      "excerpt": "lorem lorem lorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem loremlorem lorem",
+      "userId": 3
+    },
+    {
+      "id": 3,
+      "slug": "title-post-3",
+      "img": "https://picsum.photos/id/3/900/900",
+      "categoryId": 4,
+      "title": "Title Post 3",
+      "body": "Description Post 3",
+      "created_at": 1698385007661,
+      "excerpt": "<p>Excerpt post 3</p>",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "slug": "title-post-4",
+      "img": "https://picsum.photos/id/4/900/900",
+      "categoryId": 4,
+      "title": "Title Post 4",
+      "body": "Description Post 4",
+      "created_at": 1698384007661,
+      "excerpt": "<p>Excerpt post 4</p>",
+      "userId": 3
+    },
+    {
+      "id": 5,
+      "slug": "title-post-5",
+      "img": "https://picsum.photos/id/5/900/900",
+      "categoryId": 3,
+      "title": "Title Post 5",
+      "body": "Description Post 5",
+      "created_at": 1698383007661,
+      "excerpt": "<p>Excerpt post 5</p>",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "slug": "title-post-6",
+      "img": "https://picsum.photos/id/6/900/900",
+      "categoryId": 4,
+      "title": "Title Post 6",
+      "body": "Description Post 6",
+      "created_at": 1698382007661,
+      "excerpt": "<p>Excerpt post 6</p>",
+      "userId": 2
+    },
+    {
+      "id": 7,
+      "slug": "title-post-7",
+      "img": "https://picsum.photos/id/7/900/900",
+      "categoryId": 2,
+      "title": "Title Post 7",
+      "body": "Description Post 7",
+      "created_at": 1698385727661,
+      "excerpt": "<p>Excerpt post 7</p>",
+      "userId": 3
+    },
+    {
+      "id": 8,
+      "slug": "title-post-8",
+      "img": "https://picsum.photos/id/8/900/900",
+      "categoryId": 3,
+      "title": "Title Post 8",
+      "body": "Description Post 8",
+      "created_at": 1698385327661,
+      "excerpt": "<p>Excerpt post 8</p>",
+      "userId": 3
+    },
+    {
+      "id": 9,
+      "slug": "title-post-9",
+      "img": "https://picsum.photos/id/9/900/900",
+      "categoryId": 4,
+      "title": "Title Post 9",
+      "body": "Description Post 9",
+      "created_at": 1698385007661,
+      "excerpt": "<p>Excerpt post 9</p>",
+      "userId": 2
+    },
+    {
+      "id": 10,
+      "slug": "title-post-10",
+      "img": "https://picsum.photos/id/10/900/900",
+      "categoryId": 2,
+      "title": "Title Post 10",
+      "body": "Description Post 10",
+      "created_at": 1698384007661,
+      "excerpt": "<p>Excerpt post 10</p>",
+      "userId": 3
+    },
+    {
+      "id": 11,
+      "slug": "title-post-11",
+      "img": "https://picsum.photos/id/11/900/900",
+      "categoryId": 3,
+      "title": "Title Post 11",
+      "body": "Description Post 11",
+      "created_at": 1698383007661,
+      "excerpt": "<p>Excerpt post 11</p>",
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "slug": "title-post-12",
+      "img": "https://picsum.photos/id/12/900/900",
+      "categoryId": 4,
+      "title": "Title Post 12",
+      "body": "Description Post 12",
+      "created_at": 1698382007661,
+      "excerpt": "<p>Excerpt post 12</p>",
+      "userId": 2
+    }
+  ]
 }
